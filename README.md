@@ -1,4 +1,4 @@
-This programs goes through various node info and tasks. I used CLion, which seemed to crash my computer a few times with Nodes. This is why you should comment certain section of code when you try to run it. It is the IDE issues and not the programmer at fault. 
+This programs goes through various node info and tasks.
 
 I show the following capabilities of insertion: at the beginning, at the end, at the given location in the sorted list
 
