@@ -1,4 +1,4 @@
-This programs goes through various node info and tasks. I do add some node info at the beginning portion of the code.
+This programs goes through various node info and tasks. I do add some node info at the beginning portion of the code. This had no memory issues.
 
 I show the following capabilities of insertion: at the beginning, at the end, at the given location in the sorted list
 
